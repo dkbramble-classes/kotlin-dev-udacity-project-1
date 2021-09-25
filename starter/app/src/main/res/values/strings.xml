@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="app_title">Shoe Store</string>
+    <string name="login_title">Log into the Shoe Store</string>
+    <string name="welcome_title">Welcome to the Shoe Store!</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="shoe_details_title">Add a Shoe</string>
+    <string name="welcome_body">This shoe store is pretty great! Continue through the app to see why!</string>
+    <string name="instructions_body_1">1. Browse different shoes</string>
+    <string name="instructions_body_2">2. Add a shoe of your own!</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="shoe_name">Name:</string>
+    <string name="shoe_company">Company:</string>
+    <string name="shoe_size">Size:</string>
+    <string name="shoe_description">Description:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_out">Logout</string>
+    <string name="save_shoe">Save</string>
+    <string name="cancel_shoe">Cancel</string>
+    <string name="lets_start">Let\'s Start</string>
+    <string name="enter_store">Enter the Store</string>
+    <string name="email_hint">enter email</string>
+    <string name="password_hint">enter password</string>
+    <string name="name_hint">enter name</string>
+    <string name="size_hint">enter size</string>
+    <string name="company_hint">enter company</string>
+    <string name="description_hint">enter description</string>
+    <string name="shoe_name_list">Name:\n%1$s</string>
+    <string name="shoe_company_list">Company:\n%1$s</string>
+    <string name="shoe_size_list">Size:\n%1$s</string>
+    <string name="shoe_description_list">Description:\n%1$s</string>
+
+</resources>
